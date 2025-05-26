@@ -2,4 +2,4 @@
 
 # react repo link
 
-tubular-blini-a20848.netlify.app
+https://tubular-blini-a20848.netlify.app/
